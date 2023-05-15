@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Bus {
+public class Bus extends Transport{
 }

@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class AppConfig {
+// Создаем класс AppConfig, который будет содержать
+// конфигурацию бинов для внедрения зависимостей
+public class AppConfig {
 }

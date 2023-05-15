@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Pickup {
+public class Pickup extends Transport {
 }
